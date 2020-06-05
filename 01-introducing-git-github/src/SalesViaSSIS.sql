@@ -1,4 +1,5 @@
 ﻿CREATE TABLE [dbo].[Sales] (
+    /*GEWENSTE WIJZIGING*/
     [TotalDue]    DECIMAL (18, 4) NULL,
     [SubTotal]    DECIMAL (18, 4) NULL,
     [TaxAmt]      DECIMAL (18, 4) NULL,
